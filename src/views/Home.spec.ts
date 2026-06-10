@@ -6,7 +6,14 @@ import Home from './Home.vue';
 
 vi.mock('@/composables', () => ({
 	useVercel: () => ({ track: vi.fn() }),
-	usePreload: () => ({ preloadImage: vi.fn() })
+	usePreload: () => ({ preloadImage: vi.fn() }),
+	useAnalytics: () => ({ track: vi.fn() }),
+	useNotification: () => ({ sendNotification: vi.fn() })
+}));
+
+vi.mock('vue-router', () => ({
+	useRoute: () => ({ hash: '#home' }),
+	useRouter: () => ({ push: vi.fn() })
 }));
 
 describe('Home.vue', () => {
@@ -21,3 +28,4 @@ describe('Home.vue', () => {
 		expect(wrapper.html()).toContain('My Thoughts');
 	});
 });
+

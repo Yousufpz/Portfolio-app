@@ -3,6 +3,11 @@ import { describe, expect, it, vi } from 'vitest';
 
 import Topnav from './topnav.vue';
 
+vi.mock('vue-router', () => ({
+	useRoute: () => ({ hash: '#home' }),
+	useRouter: () => ({ push: vi.fn() })
+}));
+
 vi.mock('@/config', () => ({
 	experience: {},
 	nav: {
@@ -26,3 +31,4 @@ describe('Topnav.vue', () => {
 		expect(wrapper.exists()).toBe(true);
 	});
 });
+
