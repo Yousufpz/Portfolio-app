@@ -1,0 +1,18 @@
+{
+  "github": {
+    "repositories": [
+      {
+        "url": "https://github.com/Yousufpz/ResolvePal",
+        "banner": "https://opengraph.githubassets.com/1/Yousufpz/ResolvePal?v=1"
+      },
+      {
+        "url": "https://github.com/Yousufpz/Squish-Test-Authoring-Agent",
+        "banner": "https://opengraph.githubassets.com/1/Yousufpz/Squish-Test-Authoring-Agent?v=1"
+      },
+      {
+        "url": "https://github.com/Yousufpz/-STRATEGOS-AI",
+        "banner": "https://opengraph.githubassets.com/1/Yousufpz/-STRATEGOS-AI?v=1"
+      }
+    ]
+  }
+}

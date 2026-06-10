@@ -1,0 +1,25 @@
+{
+	"client": 5,
+	"joining": 2022,
+	"projects": 6,
+	"companies": [
+		{
+			"name": "Charles Hudson Technology Solutions (Nagarro)",
+			"tenure": "Jun 2025 - Present",
+			"url": "https://www.nagarro.com",
+			"details": "Working as a <b>Backend AI / Performance / DevOps Engineer</b>. Designing and executing enterprise-scale load tests (10,000+ concurrent users) via LoadRunner. Designing and implementing agentic AI systems using <b>LangGraph, OpenAI, and LangChain</b> for anomaly detection and automated incident triaging, and performing deep JVM heap and GC profiling via Dynatrace."
+		},
+		{
+			"name": "TheraPz",
+			"tenure": "Dec 2024 - Apr 2025",
+			"url": "https://www.linkedin.com/company/vnc-digital-services",
+			"details": "Worked as a <b>Software Engineer (Full Stack & DevOps)</b>. Built a pediatric therapy platform using <b>React, Spring Boot, and PostgreSQL</b>, integrated a clinical assistant using <b>LangChain, OpenAI, and FAISS</b>, and set up Dockerized CI/CD pipelines on AWS EC2."
+		},
+		{
+			"name": "Cognizant Technology Solutions",
+			"tenure": "Aug 2022 - Nov 2024",
+			"url": "https://www.cognizant.com",
+			"details": "Worked as a <b>Programmer Analyst (Backend, Full Stack & DevOps)</b>. Developed Java Spring Boot microservices for enterprise clients (Dell EMC UK, Maersk Air Cargo). Built CI/CD pipelines via <b>Jenkins, Maven, and Ansible</b>, containerized applications using <b>Docker/Kubernetes</b> on OpenShift, and automated AWS EC2 instance provisioning."
+		}
+	]
+}

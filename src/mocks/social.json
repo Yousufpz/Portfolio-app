@@ -1,0 +1,44 @@
+{
+	"blogs": [
+		{
+			"url": "https://github.com/Yousufpz/Resolve-Pal",
+			"date": "2026-06-01",
+			"title": "Building a Multi-Agent Customer Support System with LangGraph & Spring Boot",
+			"source": "GitHub",
+			"banner": "/projects/resolvepal.png",
+			"subtitle": "How to design an LLM Supervisor router and delegate tasks to specialized billing and technical agents using LangChain4j.",
+			"tags": ["LangGraph", "Spring Boot", "AI Agents", "Java"]
+		},
+		{
+			"url": "https://github.com/Yousufpz/squish-test-authoring-agent",
+			"date": "2026-05-15",
+			"title": "Automating GUI Tests: An Autonomous Squish Test Authoring Agent",
+			"source": "GitHub",
+			"banner": "/projects/squishagent.png",
+			"subtitle": "Using AST scanners, fuzzy matching, and multi-agent workflows to generate complete BDD Gherkin test packages from plain text requirements.",
+			"tags": ["Python", "FastAPI", "Test Automation", "AI Agents"]
+		}
+	],
+	"twitter": {
+		"user": {
+			"id": "12345",
+			"name": "Mohd Yousuf Parvez",
+			"profile_image_url": "/photos/profile.jpg",
+			"username": "Yousufpz"
+		},
+		"tweets": [
+			{
+				"author_id": "12345",
+				"created_at": "2026-06-05T12:00:00Z",
+				"id": "tweet123",
+				"text": "Excited to share my latest project: Resolve Pal! A production-grade multi-agent customer support system using Spring Boot (Java 21) and Next.js. Check out the supervisor pattern routing!"
+			},
+			{
+				"author_id": "12345",
+				"created_at": "2026-05-20T14:30:00Z",
+				"id": "tweet124",
+				"text": "Deep JVM profiling is key when deploying AI agents in Spring Boot. Resolved a heap memory leak and thread contention issue, boosting P95 response times by 35%!"
+			}
+		]
+	}
+}

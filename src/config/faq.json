@@ -1,0 +1,18 @@
+[
+	{
+		"question": "What services do you offer?",
+		"answer": "I specialize in building production-ready Backend Systems, Agentic AI Architectures, and RAG pipelines. I also offer custom system integration, API development, performance optimization, and DevOps pipeline automation."
+	},
+	{
+		"question": "What is your experience with AI and LLMs?",
+		"answer": "I design and build multi-step agent systems using <b>LangGraph and LangChain</b>, integrate OpenAI/Gemini APIs, construct high-performance RAG pipelines (using <b>Pinecone, FAISS, and Weaviate</b>), and build LLM evaluation/hallucination detection harnesses."
+	},
+	{
+		"question": "How do you handle backend scalability?",
+		"answer": "I build distributed <b>Java Spring Boot</b> and Python microservices, handle containerization with <b>Docker/Kubernetes</b>, deploy on <b>AWS</b>, and use <b>Dynatrace</b> for deep JVM profiling, heap/GC analysis, and bottleneck mitigation."
+	},
+	{
+		"question": "Can you work with existing engineering teams?",
+		"answer": "<b>Absolutely!</b> I integrate easily with modern agile engineering teams. I have extensive experience setting up automated CI/CD pipelines (Jenkins, GitHub Actions, Ansible) and establishing unit testing frameworks (JUnit, Mockito, Playwright) with SonarQube quality gates."
+	}
+]

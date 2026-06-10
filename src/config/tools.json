@@ -1,0 +1,51 @@
+[
+	{
+		"name": "Java",
+		"detail": "Primary Language",
+		"icon": "fab fa-java",
+		"color": "#e41f23",
+		"url": "https://www.java.com"
+	},
+	{
+		"name": "Spring Boot",
+		"detail": "Enterprise Backend",
+		"icon": "fas fa-leaf",
+		"color": "#6db33f",
+		"url": "https://spring.io/projects/spring-boot"
+	},
+	{
+		"name": "Python",
+		"detail": "AI & Agentic Systems",
+		"icon": "fab fa-python",
+		"color": "#3776ab",
+		"url": "https://www.python.org"
+	},
+	{
+		"name": "AI Agent Dev",
+		"detail": "LangChain & LangGraph",
+		"icon": "fas fa-robot",
+		"color": "#a855f7",
+		"url": "https://python.langchain.com"
+	},
+	{
+		"name": "Docker",
+		"detail": "Containerization",
+		"icon": "fab fa-docker",
+		"color": "#2496ed",
+		"url": "https://www.docker.com"
+	},
+	{
+		"name": "AWS",
+		"detail": "Cloud Services",
+		"icon": "fab fa-aws",
+		"color": "#f89c24",
+		"url": "https://aws.amazon.com"
+	},
+	{
+		"name": "Git",
+		"detail": "Version Control",
+		"icon": "fab fa-git-alt",
+		"color": "#f05639",
+		"url": "https://git-scm.com"
+	}
+]

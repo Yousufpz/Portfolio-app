@@ -1,0 +1,29 @@
+[
+	{
+		"title": "Strategos AI",
+		"subtitle": "The 48 Laws of Power RAG Oracle",
+		"banner": "/projects/strategos.png",
+		"url": "https://strategos-ai-rag.vercel.app/",
+		"github": "https://github.com/Yousufpz/-STRATEGOS-AI",
+		"tags": ["nextjs", "rag", "python", "streamlit", "ai-agents"],
+		"description": "Strategos AI is a high-performance, retrieval-augmented generation (RAG) system built to provide wise, contextual, and practical strategic counsel based on Robert Greene's The 48 Laws of Power. Features a luxurious glassmorphic Next.js interface with step-by-step pipeline animations and a fast Python Streamlit wrapper."
+	},
+	{
+		"title": "Squish Test Agent",
+		"subtitle": "Autonomous GUI Test Authoring Agent",
+		"banner": "/projects/squishagent.png",
+		"url": "https://squish-test-authoring-agent.vercel.app/",
+		"github": "https://github.com/Yousufpz/Squish-Test-Authoring-Agent",
+		"tags": ["python", "fastapi", "playwright", "fuzzy matching", "agentic"],
+		"description": "A production-grade local autonomous AI system that scans existing Squish test suites (steps, object maps, utilities) and generates executable Gherkin feature files and Python step definitions from plain English requirements."
+	},
+	{
+		"title": "Resolve Pal",
+		"subtitle": "Full-Stack Multi-Agent Support System",
+		"banner": "/projects/resolvepal.png",
+		"url": "https://resolve-pal.vercel.app/",
+		"github": "https://github.com/Yousufpz/ResolvePal",
+		"tags": ["spring boot", "nextjs", "langchain4j", "pinecone", "docker"],
+		"description": "A full-stack support orchestration system using the Supervisor Multi-Agent Pattern. Routes and processes incoming tickets dynamically, delegating specialized billing or technical work to LLM agents with tool calling."
+	}
+]

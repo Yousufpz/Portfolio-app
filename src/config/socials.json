@@ -1,0 +1,17 @@
+{
+	"email": {
+		"title": "Email",
+		"icon": "email",
+		"url": "mailto:mohdyousufparvez@gmail.com"
+	},
+	"github": {
+		"title": "GitHub",
+		"icon": "github",
+		"url": "https://github.com/Yousufpz"
+	},
+	"linkedin": {
+		"title": "Linkedin",
+		"icon": "linkedin",
+		"url": "https://linkedin.com/in/mohd-yousuf-parvez"
+	}
+}
